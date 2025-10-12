@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Klyro<br>👯 I’m looking to collaborate on Web development Projects<br>🌱 I’m currently learning Front-End Frameworks<br><br>
+🔭 I’m currently working on project Klyro<br>👯 I’m looking to collaborate on Web development Projects<br>🌱 I’m currently learning Front-End Frameworks<br><br>
 
 
 ## 🌐 Socials:
