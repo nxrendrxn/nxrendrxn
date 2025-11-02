@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.tenor.com/xRHjFJxzxkEAAAAM/lex-monkey-lex-monkwy.gif" width="100%" />
+  <img src="" width="100%" />
 </p>
 
 
