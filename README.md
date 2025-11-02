@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="" width="100%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif" width="100%" />
 </p>
 
 
