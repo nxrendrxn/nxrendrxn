@@ -1,34 +1,85 @@
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif" width="100%" />
 </p>
 
-
-
-# 💫 About Me:
-🔭 I’m currently working on project Klyro<br>👯 I’m looking to collaborate on Web development Projects<br>🌱 I’m currently learning the Front-End Frameworks<br><br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_nxrendrxn_/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nxrendrxn/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narendransivaramman@gmail.com)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nxrendrxn&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nxrendrxn&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxrendrxn&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nxrendrxn&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nxrendrxn&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2800&pause=1000&color=A259FF&center=true&vCenter=true&width=600&lines=+Welcome+to+My+Profile"/>
+</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nxrendrxn&icon=9&color=5)](https://visitcount.itsvg.in)
+
+## About Me
+I’m currently working on project **Klyro**  
+I’m looking to collaborate on **Web Development Projects**  
+I’m currently learning **Front-End Frameworks**
+
+---
+
+## Socials  
+<p align="center">
+  <a href="https://www.instagram.com/_nxrendrxn_/"><img src="https://img.shields.io/badge/Instagram-%23A259FF.svg?style=for-the-badge&logo=instagram&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/nxrendrxn/"><img src="https://img.shields.io/badge/LinkedIn-%23A259FF.svg?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+  <a href="mailto:narendransivaramman@gmail.com"><img src="https://img.shields.io/badge/Email-%23A259FF.svg?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+</p>
+
+---
+
+## Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%23A259FF.svg?style=for-the-badge&logo=c&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/C++-%23A259FF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/HTML5-%23A259FF.svg?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS3-%23A259FF.svg?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Python-%23A259FF.svg?style=for-the-badge&logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MongoDB-%23A259FF.svg?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MySQL-%23A259FF.svg?style=for-the-badge&logo=mysql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Postgres-%23A259FF.svg?style=for-the-badge&logo=postgresql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Photoshop-%23A259FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Figma-%23A259FF.svg?style=for-the-badge&logo=figma&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Illustrator-%23A259FF.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=fff"/>
+</p>
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nxrendrxn&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nxrendrxn&theme=midnight-purple&hide_border=false" height="165"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxrendrxn&theme=midnight-purple&hide_border=false&layout=compact" height="150"/>
+</p>
+
+---
+
+## GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nxrendrxn&theme=dracula&no-frame=true&margin-w=10&column=7" width="90%">
+</p>
+
+---
+
+## Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" />
+</p>
+
+---
+
+## Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nxrendrxn&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" width="90%">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=nxrendrxn&icon=9&color=7&label=Profile%20Views&labelColor=000000&countColor=A259FF" />
+  </a>
+</p>
+
