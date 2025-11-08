@@ -78,8 +78,7 @@ I’m currently learning **Front-End Frameworks**
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nxrendrxn&icon=9&color=7&label=Profile%20Views&labelColor=000000&countColor=A259FF" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=nxrendrxn&label=Profile%20Views&color=A259FF&style=for-the-badge" alt="Profile view counter" />
 </p>
+
 
