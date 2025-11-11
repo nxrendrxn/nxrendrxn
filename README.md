@@ -6,14 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2800&pause=1000&color=A259FF&center=true&vCenter=true&width=600&lines=+Welcome+to+My+Profile"/>
 </h1>
 
----
+
 
 ## About Me
+
+ 
+
 I’m currently working on project **Klyro**  
 I’m looking to collaborate on **Web Development Projects**  
 I’m currently learning **Front-End Frameworks**
 
----
+
 
 ## Socials  
 <p align="center">
@@ -22,7 +25,7 @@ I’m currently learning **Front-End Frameworks**
   <a href="mailto:narendransivaramman@gmail.com"><img src="https://img.shields.io/badge/Email-%23A259FF.svg?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
 </p>
 
----
+
 
 ## Tech Stack  
 <p align="center">
@@ -39,7 +42,7 @@ I’m currently learning **Front-End Frameworks**
   <img src="https://img.shields.io/badge/Illustrator-%23A259FF.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=fff"/>
 </p>
 
----
+
 
 ## GitHub Stats
 <p align="center">
@@ -48,34 +51,34 @@ I’m currently learning **Front-End Frameworks**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxrendrxn&theme=midnight-purple&hide_border=false&layout=compact" height="150"/>
 </p>
 
----
+
 
 ## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nxrendrxn&theme=dracula&no-frame=true&margin-w=10&column=7" width="90%">
 </p>
 
----
+
 
 ## Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" />
 </p>
 
----
+
 
 ## Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=nxrendrxn&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" width="90%">
 </p>
 
----
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nxrendrxn&label=Profile%20Views&color=A259FF&style=for-the-badge" alt="Profile view counter" />
